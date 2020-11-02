@@ -8,7 +8,7 @@ export function SocialList({}) {
     <div>
       <a
         title="Twitter"
-        href={`https://twitter.com/${config.twitter_account}`}
+        href={`https://twitter.com/stppeify`}
         target="_blank"
         rel="noopener"
       >
@@ -16,7 +16,7 @@ export function SocialList({}) {
       </a>
       <a
         title="GitHub"
-        href={`https://github.com/${config.github_account}`}
+        href={`#`}
         target="_blank"
         rel="noopener"
       >
